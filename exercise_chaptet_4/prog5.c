@@ -36,4 +36,6 @@ int main(void){
   // the second last line is division of integer by float. the result should be float number
   // Any operation between two values in c is performed as floating point operation if
   // either values is a floaing point variable or constant.
+  // float keyword is known as type type case operator which is used in last line.
+  // This type cast operator has higher precedence except the unary minus and plus.
   // with the keyword float in the last line converts the result in floating number
