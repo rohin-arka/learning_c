@@ -15,4 +15,6 @@ int main(void){
     printf("first number is divisible by second\n");
   else
     printf("first number is not divisible by second number\n");
+
+  return 0;  
 }

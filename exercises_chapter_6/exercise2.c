@@ -17,4 +17,5 @@ int main(void){
   else
     printf("The first number is not divisible by second number\n");
 
+  return 0;  
 }
