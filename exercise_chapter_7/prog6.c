@@ -14,7 +14,9 @@ int main(void){
   }
   while(userInput != 0);
 
-  for(--index; index == 0; --index){
-    printf("%i", convertedNumber[index]);
+  printf("index %i\n", index);
+
+  for(--index; index >= 0; --index){
+    printf("%i\n", convertedNumber[index]);
   }
 }
